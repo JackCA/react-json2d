@@ -1,7 +1,7 @@
 import React, {
   PureComponent,
-  PropTypes,
 } from "react";
+import PropTypes from "prop-types"
 import JSON2D from "json2d";
 
 export default class Json2d extends PureComponent {
